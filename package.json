@@ -1,0 +1,28 @@
+{
+  "name": "depcruise-babel-macro-bug",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesteche/depcruise-babel-macro-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesteche/depcruise-babel-macro-bug/issues"
+  },
+  "homepage": "https://github.com/mesteche/depcruise-babel-macro-bug#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-macros": "^3.0.1",
+    "dependency-cruiser": "^9.21.1",
+    "paths.macro": "^3.0.1",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.3.0"
+  }
+}
